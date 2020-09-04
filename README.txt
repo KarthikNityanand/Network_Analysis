@@ -16,8 +16,9 @@ Detailed Instructions before executing each folder is provided below:
 2_Community Detection
 
 - Replace the path directory to match with your system's location for Basemap package installed before executing further
-- Now, execute the notebook labelled as 'Community detection.ipynb'
-- Next, execute the notebook labelled as 'Centrality on Communities.ipynb'
+- Extract the 2 jupyter notebooks by unzipping the 'Community Detection Notebooks.zip' folder and save the files in the same destination
+- Now, execute the notebook labelled as 'Community detection.ipynb' from the unzipped 'Community Detection Notebooks.zip' folder
+- Next, execute the notebook labelled as 'Centrality on Communities.ipynb'from the 'Community Detection Notebooks.zip' folder
 - The community detection output files in html format can be found under the sub-folder 'Output files_for_Community'
 
 3_Network Classification
