@@ -1,7 +1,6 @@
 Download the source data file from the link provided: https://drive.google.com/file/d/1XhiVHb127mTvpM0LG8TkbvGtDURYcY9N/view?usp=sharing
-The source data is also mapped into the individual folders for running the code chunks.
 
-We have separated the codes into the different stages of our project by folders labelled from '1_' to '3_'.
+We have separated the codes into the different stages of the project by folders labelled from '1_' to '3_'.
 In each folder, we have included the codes and input datasets for the codes.
 
 Detailed Instructions before executing each folder is provided below:
